@@ -7,6 +7,6 @@ mlfoundry
 streamlit==1.13.0
 uvicorn==0.18.3
 xgboost==1.6.2
-torch
+torch==1.13.1
 transformers
 tqdm
